@@ -39,3 +39,11 @@ Weekly Topics covered
 - W-6(14/02-19/02)--- Completion of project and Report completion
 
 ***
+
+### Conclusion
+- The objective of this project is to recognize the real time handwritten text from a scanned image. After several experiments we conclude a set of hyper parameters for a better neural network with highest accuracy.
+
+***
+
+### Future Scope
+- In future the ability of the Neural Networks will be improved to extract more number of features, improve Neural Networks ability to recognize the real time handwritten text irrespective of its orientation.
